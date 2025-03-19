@@ -159,7 +159,7 @@ export const Footer = () => {
             href="https://www.linkedin.com/in/leopoldo-miranda/"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Leo Miranda
+            Tobi Belaw
           </a>
         </h3>
       </section>
